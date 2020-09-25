@@ -1,0 +1,33 @@
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+--
+-- Table structure for table `accounts`
+--
+
+CREATE TABLE `accounts` (
+  `id` int(11) NOT NULL,
+  `name` varchar(45) CHARACTER SET utf8 NOT NULL,
+  `username` varchar(45) CHARACTER SET utf8 NOT NULL,
+  `email` varchar(45) CHARACTER SET utf8 NOT NULL,
+  `password` varchar(45) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
+  `vkey` varchar(45) CHARACTER SET utf8 NOT NULL,
+  `verified` varchar(1),
+  `registration_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Indexes for table `accounts`
+--
+ALTER TABLE `accounts`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `username` (`username`),
+  ADD UNIQUE KEY `email` (`email`);
+
+--
+-- AUTO_INCREMENT for table `accounts`
+--
+ALTER TABLE `accounts`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
+COMMIT;
