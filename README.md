@@ -11,6 +11,8 @@ Unity 2020.1.6f1
  <br>
 XAMPP for Windows 7.4.10
  <br>
+Google Chrome
+ <br>
  <br>
 # Xampp configuration
 Install XAMPP in the path C:\xampp.
