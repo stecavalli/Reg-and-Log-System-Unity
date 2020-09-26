@@ -62,11 +62,7 @@ Go to https://myaccount.google.com/
  <br>
  <br>
 - On the left navigation panel, click Security.
- <br>
 - On the bottom of the page, in the Less secure app access panel, click Turn on access.
- <br>
 - If you don't see this setting, You need to set "Two-Step Verification" to "Not active".
- <br>
 - In the subwindow, Set radio button to On.
- <br>
 - Remember to reset the radio button to Off when you are not using sending email from the application.
