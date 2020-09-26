@@ -63,3 +63,5 @@ Turning on 'less secure apps' settings as mailbox user.
 - If you don't see this setting, You need to set "Two-Step Verification" to "Not active".
 - In the subwindow, Set radio button to On.
 - Remember to reset the radio button to Off when you are not using sending email from the application.
+ # Credits
+https://stecavalli.altervista.org/
