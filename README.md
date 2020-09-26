@@ -7,9 +7,9 @@ This is a simple user registration and login system for Unity3D, Xampp, Google M
  <br>
 Software Versions Used:
  <br>
-Unity 2020.1.6f1
- <br>
 XAMPP for Windows 7.4.10
+ <br>
+Unity 2020.1.6f1
  <br>
 Google Chrome
 # Xampp configuration
@@ -48,3 +48,8 @@ Create a new project in unity and import the package from Unity Asset Store at t
  <br>
  <br>
 https://assetstore.unity.com/packages/slug/179864
+ # Google Chrome configuration
+Visit the link below:
+ <br>
+ <br>
+https://myaccount.google.com/security
