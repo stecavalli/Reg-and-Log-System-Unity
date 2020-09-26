@@ -20,9 +20,11 @@ Create a new folder called register2 in C:\xampp\htdocs\ and
 put the files login.php, register.php and verify.php into it.
  <br>
  <br>
- Replace the php.ini file in the C:\xampp\php\ folder with the one you find above.
+Replace the php.ini file in the C:\xampp\php\ folder with the php.ini found here.
  <br>
- Change the line "sendmail_from = YOUR_ACCOUNT_@gmail.com" by entering your Google mail address.
+Change the line "sendmail_from = YOUR_ACCOUNT_@gmail.com" by entering your Google mail address.
+ <br>
+Replace the sendmail.ini in the C:\xampp\sendmail\ folder with the sendmail.ini found here.
  # Unity configuration
 Create a new project in unity and import the package from Unity Asset Store at this link:
  <br>
