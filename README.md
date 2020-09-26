@@ -49,12 +49,6 @@ Create a new project in unity and import the package from Unity Asset Store at t
  <br>
 https://assetstore.unity.com/packages/slug/179864
  # Google Chrome configuration
-Visit the link below:
- <br>
- <br>
-https://myaccount.google.com/security
- <br>
- <br>
 Turning on 'less secure apps' settings as mailbox user
  <br>
  <br>
