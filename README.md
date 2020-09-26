@@ -8,7 +8,7 @@ to test the sending E-Mail from Unity using Xampp and Google Mail.
  <br>
 This example can be applied on a hosting site with PhpMyAdmin, MySQL and the
  <br>
-Sendmail function with some changes to the C # code in Unity and the
+Sendmail function with some changes to the C# code in Unity and the
  <br>
 Php codes uploaded to the server.
  <br>
