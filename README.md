@@ -24,7 +24,7 @@ Replace the php.ini file in the C:\xampp\php\ folder with the php.ini found here
  <br>
 Edit the line:
  <br>
-sendmail_from = YOUR_ACCOUNT_@gmail.com
+sendmail_from = YOUR ACCOUNT @gmail.com
  <br>
 by entering your Google mail address.
  <br>
@@ -33,9 +33,9 @@ Replace the sendmail.ini file in the C:\xampp\sendmail\ folder with the sendmail
  <br>
 Edit the lines:
  <br>
-auth_username=YOUR_ACCOUNT_@gmail.com
+auth_username=YOUR ACCOUNT @gmail.com
  <br>
-auth_password = YOUR_PASSWORD_ACCOUNT
+auth_password = YOUR PASSWORD ACCOUNT
  <br>
 with your Google mail data.
  <br>
