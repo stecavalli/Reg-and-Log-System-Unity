@@ -53,3 +53,21 @@ Visit the link below:
  <br>
  <br>
 https://myaccount.google.com/security
+ <br>
+ <br>
+Turning on 'less secure apps' settings as mailbox user
+ <br>
+ <br>
+Go to https://myaccount.google.com/
+ <br>
+ <br>
+On the left navigation panel, click Security
+ <br>
+ <br>
+On the bottom of the page, in the Less secure app access panel, click Turn on access
+ <br>
+ <br>
+If you don't see this setting, You need to set "Two-Step Verification" to "Not active"
+ <br>
+ <br>
+In the subwindow, Set radio button to On.
