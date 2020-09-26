@@ -57,7 +57,6 @@ https://assetstore.unity.com/packages/slug/179864
  # Google Chrome configuration
 Turning on 'less secure apps' settings as mailbox user.
  <br>
- <br>
 1. Go to https://myaccount.google.com/
  <br>
 2. On the left navigation panel, click Security.
