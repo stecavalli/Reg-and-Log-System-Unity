@@ -13,6 +13,8 @@ XAMPP for Windows 7.4.10
  <br>
  <br>
 # Xampp configuration
+Install XAMPP in the path C:\xampp.
+ <br>
 Create a new folder called register2 in C:\xampp\htdocs\ and
  <br>
 put the files login.php, register.php and verify.php into it.
