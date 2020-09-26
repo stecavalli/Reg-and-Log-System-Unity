@@ -9,7 +9,7 @@ XAMPP for Windows 7.4.10 <br>
  <br>
 # Xampp configuration
   <br>
-Create a new folder in xampp's htdocs and insert the login.php, register.php and verify.php files <br>
+Create a new folder named register2 in xampp htdocs and insert the login.php, register.php and verify.php files inside it. <br>
  <br>
 Create a new project in unity and import the package from Unity Asset Store at this link: <br>
  <br>
