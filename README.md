@@ -4,15 +4,11 @@ Registration and Login System
  <br>
 This simple user registration and login system for Android Device was created
  <br>
- <br>
 to test the sending E-Mail from Unity using Xampp and Google Mail.
- <br>
  <br>
 This example can be applied on a hosting site with PhpMyAdmin, MySQL and the
  <br>
- <br>
 Sendmail function with some changes to the C # code in Unity and the
- <br>
  <br>
 Php codes uploaded to the server.
  <br>
