@@ -58,14 +58,14 @@ https://assetstore.unity.com/packages/slug/179864
 Turning on 'less secure apps' settings as mailbox user.
  <br>
  <br>
-1. Go to https://myaccount.google.com/
+Go to https://myaccount.google.com/
  <br>
-2. On the left navigation panel, click Security.
+1. On the left navigation panel, click Security.
  <br>
-3. On the bottom of the page, in the Less secure app access panel, click Turn on access.
+2. On the bottom of the page, in the Less secure app access panel, click Turn on access.
  <br>
-4. If you don't see this setting, You need to set "Two-Step Verification" to "Not active".
+3. If you don't see this setting, You need to set "Two-Step Verification" to "Not active".
  <br>
-5. In the subwindow, Set radio button to On.
+4. In the subwindow, Set radio button to On.
  <br>
-6. Remember to reset the radio button to Off when you are not using sending email from the application.
+5. Remember to reset the radio button to Off when you are not using sending email from the application.
