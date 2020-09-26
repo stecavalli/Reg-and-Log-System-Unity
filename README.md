@@ -67,7 +67,4 @@ If you don't see this setting, You need to set "Two-Step Verification" to "Not a
 In the subwindow, Set radio button to On.
  <br>
  <br>
-Remember to reset the radio button to Off
- <br>
- <br>
-when you are not using sending email from the application.
+Remember to reset the radio button to Off when you are not using sending email from the application.
