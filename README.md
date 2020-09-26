@@ -29,7 +29,7 @@ sendmail_from = YOUR_ACCOUNT_@gmail.com
 by entering your Google mail address.
  <br>
  <br>
-Replace the sendmail.ini in the C:\xampp\sendmail\ folder with the sendmail.ini found here.
+Replace the sendmail.ini file in the C:\xampp\sendmail\ folder with the sendmail.ini found here.
  <br>
 Edit the lines:
  <br>
