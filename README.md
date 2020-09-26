@@ -49,8 +49,6 @@ with your Google mail data.
  <br>
  <br>
 Use the SQL code you find here to create the "accounts" table in the "test" database.
- <br>
-The XAMPP configuration is finished.
  # Unity configuration
 Create a new project in unity and import the package from Unity Asset Store at this link:
  <br>
