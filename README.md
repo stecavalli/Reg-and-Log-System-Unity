@@ -37,7 +37,8 @@ auth_username=YOUR_ACCOUNT_@gmail.com
  <br>
 auth_password = YOUR_PASSWORD_ACCOUNT
  <br>
-with your Google mail data
+with your Google mail data.
+ <br>
  <br>
 Use the SQL code you find here to create the "accounts" table in the "test" database.
  <br>
