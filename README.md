@@ -24,6 +24,7 @@ Replace the php.ini file in the C:\xampp\php\ folder with the php.ini found here
  <br>
 Change the line "sendmail_from = YOUR_ACCOUNT_@gmail.com" by entering your Google mail address.
  <br>
+ <br>
 Replace the sendmail.ini in the C:\xampp\sendmail\ folder with the sendmail.ini found here.
  # Unity configuration
 Create a new project in unity and import the package from Unity Asset Store at this link:
