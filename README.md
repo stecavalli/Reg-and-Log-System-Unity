@@ -49,19 +49,25 @@ Create a new project in unity and import the package from Unity Asset Store at t
  <br>
 https://assetstore.unity.com/packages/slug/179864
  # Google Chrome configuration
-Turning on 'less secure apps' settings as mailbox user
+Turning on 'less secure apps' settings as mailbox user.
  <br>
  <br>
 Go to https://myaccount.google.com/
  <br>
  <br>
-On the left navigation panel, click Security
+On the left navigation panel, click Security.
  <br>
  <br>
-On the bottom of the page, in the Less secure app access panel, click Turn on access
+On the bottom of the page, in the Less secure app access panel, click Turn on access.
  <br>
  <br>
-If you don't see this setting, You need to set "Two-Step Verification" to "Not active"
+If you don't see this setting, You need to set "Two-Step Verification" to "Not active".
  <br>
  <br>
 In the subwindow, Set radio button to On.
+ <br>
+ <br>
+Remember to reset the radio button to Off
+ <br>
+ <br>
+when you are not using sending email from the application.
