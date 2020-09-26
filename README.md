@@ -2,7 +2,7 @@
 Registration and Login System
  <br>
  <br>
-This is a user registration and login system for Unity3D, Xampp, Google Mail for Android Device.
+This is a simple user registration and login system for Unity3D, Xampp, Google Mail for Android Device.
  <br>
  <br>
 Software Versions Used:
