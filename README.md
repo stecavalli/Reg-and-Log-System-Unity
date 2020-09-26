@@ -17,7 +17,7 @@ Install XAMPP in the path C:\xampp.
  <br>
 Create a new folder called register2 in C:\xampp\htdocs\ and
  <br>
-put the files login.php, register.php and verify.php into it.
+put inside the login.php, register.php and verify.php files you find here.
  <br>
  <br>
 Replace the php.ini file in the C:\xampp\php\ folder with the php.ini found here.
