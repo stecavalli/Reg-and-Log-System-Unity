@@ -34,6 +34,7 @@ Replace the sendmail.ini file in the C:\xampp\sendmail\ folder with the sendmail
 Edit the lines:
  <br>
 auth_username=YOUR_ACCOUNT_@gmail.com
+ <br>
 auth_password = YOUR_PASSWORD_ACCOUNT
  <br>
 with your Google mail data
