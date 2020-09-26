@@ -10,7 +10,8 @@ XAMPP for Windows 7.4.10 <br>
 # Xampp configuration
 Create a new folder called register2 in C:\xampp\htdocs\ and put the files login.php, register.php and verify.php into it. <br>
  <br>
- Replace the php.ini file in the C:\xampp\php\ folder with the one you find above. Change the line "sendmail_from = YOUR_ACCOUNT_@gmail.com" by entering your Google mail address.
+ Replace the php.ini file in the C:\xampp\php\ folder with the one you find above. 
+ Change the line "sendmail_from = YOUR_ACCOUNT_@gmail.com" by entering your Google mail address.
  <br>
  # Unity configuration
 Create a new project in unity and import the package from Unity Asset Store at this link: <br>
