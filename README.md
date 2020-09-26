@@ -7,5 +7,9 @@ Software Versions Used: <br>
 Unity 2020.1.6f1 <br>
 XAMPP for Windows 7.4.10 <br>
  <br>
+# Xampp configuration
+  <br>
+Create a new folder in xampp's htdocs and insert the login.php, register.php and verify.php files <br>
+ <br>
 Create a new project in unity and import the package from Unity Asset Store at this link: <br>
  <br>
