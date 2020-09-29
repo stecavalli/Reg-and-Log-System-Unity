@@ -28,7 +28,7 @@ Create a new folder called register2 in C:\xampp\htdocs\ and
 put inside the <i>login.php</i>, <i>register.php</i> and <i>verify.php</i> files you find in the list above.
  <br>
  <br>
-Replace the <i>php.ini</i> file in the C:\xampp\php\ folder with the <i>php.ini</i> found in the list above.
+Replace the <i>php.ini</i> file in the C:\xampp\php\ folder with the <i>php.ini</i> file found in the list above.
  <br>
 Edit the line:
  <br>
@@ -37,7 +37,7 @@ sendmail_from = YOUR ACCOUNT @gmail.com
 by entering your Google mail address.
  <br>
  <br>
-Replace the <i>sendmail.ini</i> file in the C:\xampp\sendmail\ folder with the <i>sendmail.ini</i> found in the list above.
+Replace the <i>sendmail.ini</i> file in the C:\xampp\sendmail\ folder with the <i>sendmail.ini</i> file found in the list above.
  <br>
 Edit the lines:
  <br>
