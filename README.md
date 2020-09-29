@@ -25,10 +25,10 @@ Install XAMPP in the path C:\xampp.
  <br>
 Create a new folder called register2 in C:\xampp\htdocs\ and
  <br>
-put inside the login.php, register.php and verify.php files you find in the list above.
+put inside the <i>login.php</i>, <i>register.php</i> and <i>verify.php</i> files you find in the list above.
  <br>
  <br>
-Replace the php.ini file in the C:\xampp\php\ folder with the <i>php.ini</i> found in the list above.
+Replace the <i>php.ini</i> file in the C:\xampp\php\ folder with the <i>php.ini</i> found in the list above.
  <br>
 Edit the line:
  <br>
@@ -37,7 +37,7 @@ sendmail_from = YOUR ACCOUNT @gmail.com
 by entering your Google mail address.
  <br>
  <br>
-Replace the sendmail.ini file in the C:\xampp\sendmail\ folder with the sendmail.ini found in the list above.
+Replace the <i>sendmail.ini</i> file in the C:\xampp\sendmail\ folder with the <i>sendmail.ini</i> found in the list above.
  <br>
 Edit the lines:
  <br>
@@ -48,9 +48,9 @@ auth_password = YOUR PASSWORD ACCOUNT
 with your Google mail data.
  <br>
  <br>
-Use the SQL code you find here to create the "accounts" table in the "test" database.
+Use the <i>SQL code</i> you find in the list above to create the "accounts" table in the "test" database.
  # Unity configuration
-Create a new project in Unity and import the package RegLogSystem.unitypackage found in the list above.
+Create a new project in Unity and import the package <i>RegLogSystem.unitypackage</i> found in the list above.
  # Google Chrome configuration
 Turning on 'less secure apps' settings as mailbox user.
  <br>
