@@ -28,7 +28,7 @@ Create a new folder called register2 in C:\xampp\htdocs\ and
 put inside the login.php, register.php and verify.php files you find in the list above.
  <br>
  <br>
-Replace the php.ini file in the C:\xampp\php\ folder with the php.ini found in the list above.
+Replace the php.ini file in the C:\xampp\php\ folder with the <i>php.ini</i> found in the list above.
  <br>
 Edit the line:
  <br>
