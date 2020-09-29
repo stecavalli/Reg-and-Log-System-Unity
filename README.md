@@ -52,8 +52,7 @@ Use the SQL code you find here to create the "accounts" table in the "test" data
  # Unity configuration
 Create a new project in Unity and import the package:
 - RegLogSystem.unitypackage
- <br>
-found in the list above.
+ <br> found in the list above.
  # Google Chrome configuration
 Turning on 'less secure apps' settings as mailbox user.
  <br>
