@@ -50,10 +50,8 @@ with your Google mail data.
  <br>
 Use the SQL code you find here to create the "accounts" table in the "test" database.
  # Unity configuration
-Create a new project in unity and import the package from Unity Asset Store at this link:
- <br>
- <br>
-https://assetstore.unity.com/packages/slug/179864
+Create a new project in unity and import the package found here:
+- RegLogSystem.unitypackage
  # Google Chrome configuration
 Turning on 'less secure apps' settings as mailbox user.
  <br>
