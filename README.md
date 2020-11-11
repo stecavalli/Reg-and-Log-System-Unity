@@ -1,4 +1,4 @@
-# Reg-and-Log-System
+# Reg and Log System
 Registration and Login System
  <br>
  <br>
