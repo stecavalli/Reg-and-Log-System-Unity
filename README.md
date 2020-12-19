@@ -52,12 +52,12 @@ Use the <i>SQL code</i> you find in the list above to create the "accounts" tabl
  # Unity configuration
 Create a new project in Unity and import the package <i>RegLogSystem.unitypackage</i> found in the list above.
 <br>
-Open the <i>Main_Menu_Xampp.cs</i> file with Visual Studio and change the line of code:
+Open the <b>Main_Menu_Xampp.cs</b> file with Visual Studio and change the line of code:
  <br>
 <i>smtpServer.Credentials = new System.Net.NetworkCredential ("YOUR_ACCOUNT_GMAIL", "YOUR_PASSWORD_GMAIL") as ICredentialsByHost;</i> 
  <br>
  <br>
-by entering your Gmail account credentials
+by entering your Gmail account credentials.
  # Google Chrome configuration
 Turning on 'less secure apps' settings as mailbox user.
  <br>
