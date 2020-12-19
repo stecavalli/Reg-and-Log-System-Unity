@@ -51,6 +51,12 @@ with your Google mail data.
 Use the <i>SQL code</i> you find in the list above to create the "accounts" table in the "test" database.
  # Unity configuration
 Create a new project in Unity and import the package <i>RegLogSystem.unitypackage</i> found in the list above.
+Open the Main_Menu_Xampp.cs file with Visual Studio and change the line of code 
+<br>
+smtpServer.Credentials = new System.Net.NetworkCredential ("YOUR_ACCOUNT_@gmail.com", "YOUR_PASSWORD_GMAIL") as ICredentialsByHost; 
+ <br>
+ <br>
+by entering your Gmail account credentials
  # Google Chrome configuration
 Turning on 'less secure apps' settings as mailbox user.
  <br>
