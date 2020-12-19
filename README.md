@@ -54,7 +54,7 @@ Create a new project in Unity and import the package <i>RegLogSystem.unitypackag
 <br>
 Open the <b>Main_Menu_Xampp.cs</b> file with Visual Studio and change the line of code:
  <br>
-<i>smtpServer.Credentials = new System.Net.NetworkCredential ("YOUR_ACCOUNT_GMAIL", "YOUR_PASSWORD_GMAIL") as ICredentialsByHost;</i> 
+<i>smtpServer.Credentials = new System.Net.NetworkCredential ("YOUR_ACCOUNT_@gmail.com", "YOUR_PASSWORD_GMAIL") as ICredentialsByHost;</i> 
  <br>
  <br>
 by entering your Gmail account credentials.
