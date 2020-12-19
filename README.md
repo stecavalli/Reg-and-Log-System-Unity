@@ -52,6 +52,7 @@ Use the <i>SQL code</i> you find in the list above to create the "accounts" tabl
  # Unity configuration
 Create a new project in Unity and import the package <i>RegLogSystem.unitypackage</i> found in the list above.
 <br>
+<br>
 Open the <b>Main_Menu_Xampp.cs</b> file with Visual Studio and change the line of code:
  <br>
 <i>smtpServer.Credentials = new System.Net.NetworkCredential ("YOUR_ACCOUNT_@gmail.com", "YOUR_PASSWORD_GMAIL") as ICredentialsByHost;</i> 
