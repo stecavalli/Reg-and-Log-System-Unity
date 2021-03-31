@@ -68,7 +68,3 @@ Turning on 'less secure apps' settings as mailbox user.
 - In the subwindow, Set radio button to On.
 - If you don't see the Less secure app access panel, You need to set "Two-Step Verification" to "Not active".
 - Remember to reset the radio button to Off when you are not using sending email from the application.
- # Credits
-https://stecavalli.altervista.org/
- <br>
-https://stecavalli.altervista.org/xampp-php-mysql-unity/
