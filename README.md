@@ -1,5 +1,5 @@
 # Reg and Log System Unity
-Registration and Login System
+Registration and Login System Unity
  <br>
  <br>
 This simple user registration and login system for Android Device was created
